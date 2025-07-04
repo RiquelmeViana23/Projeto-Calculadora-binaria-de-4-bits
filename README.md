@@ -61,6 +61,7 @@ Verifica se dois valores binários são iguais. Se forem, um LED acende como ind
 <p align="center">
   <img src="img/main_Calculadora_4bits.png" alt="Circuito principal da calculadora" width="450">
 </p>
+
 ---
 
 ## 🚀 Como Executar
