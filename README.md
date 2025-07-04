@@ -1,6 +1,6 @@
 # 🧮 Calculadora Binária de 4 Bits com ULA — Logisim
 
-Projeto desenvolvido como parte da disciplina de Lógica Digital no curso de Ciência da Computação, com o objetivo de aplicar conceitos de aritmética binária e circuitos lógicos em uma calculadora funcional construída no simulador **Logisim**.
+Projeto desenvolvido como parte da disciplina de **introdução a computação** no curso de Ciência da Computação, com o objetivo de aplicar conceitos de aritmética binária e circuitos lógicos em uma calculadora funcional construída no simulador **Logisim**.
 
 ---
 
@@ -58,11 +58,14 @@ Recebem os valores binários e os convertem para decimal, representando **unidad
 ### 🔍 Comparador Binário
 Verifica se dois valores binários são iguais. Se forem, um LED acende como indicação de igualdade.
 
+<p align="center">
+  <img src="img/main_Calculadora_4bits.png" alt="Circuito principal da calculadora" width="450">
+</p>
 ---
 
 ## 🚀 Como Executar
 
-1. Abra o arquivo `.circ` no **Logisim**
+1. Abra o arquivo `.circ` no [**Logisim**](http://www.cburch.com/logisim/)
 2. Insira dois valores binários nas entradas
 3. Selecione a operação desejada com os **bits de controle**:
    - `00` → Soma
