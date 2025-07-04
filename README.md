@@ -66,7 +66,7 @@ Verifica se dois valores binários são iguais. Se forem, um LED acende como ind
 
 ## 🚀 Como Executar
 
-1. Abra o arquivo `.circ` no [**Logisim**](http://www.cburch.com/logisim/)
+1. Abra o arquivo [`.circ`](src/Calculadora_4bits.circ) no [**Logisim**](http://www.cburch.com/logisim/)
 2. Insira dois valores binários nas entradas
 3. Selecione a operação desejada com os **bits de controle**:
    - `00` → Soma
